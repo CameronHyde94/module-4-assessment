@@ -1,0 +1,10 @@
+form {
+    display: flex;
+    flex-direction: column;
+    height: 25vh;
+    justify-content: space-around;
+}
+
+ul {
+    color: black;
+}
